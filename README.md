@@ -13,6 +13,7 @@ Bu yazılılım PU2CLR çağrı işaretli Ricardo Lima Caratti tarafından hazı
   Adım, Ses yerine simgeler kullanılmıştır.
   3) Band sayısı arttırılmış ve bandların başlangıç-bitiş frekansları yeniden belirlenmiş ve isimleri düzenlenmiştir.
   4) AM kipinde frekans adımlarına 9 kHz ve 100 kHz ilâve edilmiştir.
+  
   İLAVELER:
   =======
  1) Devre, 2 adet Li Ion pille beslenmek üzere tasarlanmış olduğundan, pil geriliminin ölçülerek ekranda gösterilmesi için bir rutin ilave edilmiştir.
