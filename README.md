@@ -15,7 +15,7 @@ Bu yazılılım PU2CLR çağrı işaretli Ricardo Lima Caratti tarafından hazı
   4) AM kipinde frekans adımlarına 9 kHz ve 100 kHz ilâve edilmiştir.
   
   İLAVELER:
-  =======
+
  1) Devre, 2 adet Li Ion pille beslenmek üzere tasarlanmış olduğundan, pil geriliminin ölçülerek ekranda gösterilmesi için bir rutin ilave edilmiştir.
   GErilim ölçme devresindeki R1 ve R2 dirençlerinin değerini ölçerek aşağıdaki
   // Voltmetre değişkenleri kısmında OHM cinsinden r1 ve r2'nin değeri olarak yazınız. Benim devremde, R1 için 10k'lık bir direnç, R2 için 3,3k'lık bir
