@@ -2,10 +2,10 @@
 Si4735 ile DSP radyo
 
 This All Band Radio Sketch has been written by Ricardo Lima Caratti and original software located at https://github.com/pu2clr/SI4735/blob/master/examples/SI47XX_02_LCD_20x4_I2C/SI473X_04_ALL_IN_ONE/SI473X_04_ALL_IN_ONE.ino
+
 Bu yazılılım PU2CLR çağrı işaretli Ricardo Lima Caratti tarafından hazırlanmış olup orijinal yazılım https://github.com/pu2clr/SI4735/blob/master/examples/SI47XX_02_LCD_20x4_I2C/SI473X_04_ALL_IN_ONE/SI473X_04_ALL_IN_ONE.ino adresindedir.
   PU2CLR tarafından yazılan programda bâzı değişiklikler ve ilâveler yapılmıştır. Bu değişiklik ve ilâveler şunlardır:
   DEĞİŞİKLİKLER:
-  =============
   1) Baskı devre tasarımına göre tuşların Arduino'ya bağlandığı bacaklar değiştirilmiştir.
   2) Ekran tasarımı değiştirilmiştir. 4 satır, 20 karakterlik ekrana daha çok bilgi sığdırabilmek için bâzı ifadeler kısaltılmış (STEREO ST gibi),SNR, S Metre,
   Adım, Ses yerine simgeler kullanılmıştır.
