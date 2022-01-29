@@ -23,7 +23,9 @@ Bu yazılılım PU2CLR çağrı işaretli Ricardo Lima Caratti tarafından hazı
   
 
 float r1 = 9970.0;
+
 float r2 = 3260.0;
+
 Pil geriliminin ölçümü bu iki direnç değerinin hassasiyetine bağımlıdır.
 DİKKAT!!!!!!
 Arduino Pro Mini'nin girişlerine 3V'tan fazla gerilim uygulanmamalıdır. Bunun için R1 ve R2 ile yapacağınız gerilim bölücünün bölme oranını
